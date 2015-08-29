@@ -67,3 +67,18 @@ ul.nav li ul {
 #quote-inner p {
     line-height: 36px;
 }
+
+body {
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+.wp-caption p.wp-caption-text {
+  font-size: 13px;
+  line-height: inherit;
+  font-style: italic;
+}
+
+#breadcrumbs {
+  font-size: inherit;
+}
