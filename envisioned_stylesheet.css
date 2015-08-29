@@ -31,3 +31,46 @@ body {
   font-weight: bold;
   font-size: large;
 }
+
+h1.category-title {
+color:#000000;
+}
+
+#slider-left-overlay {
+  background: none;
+}
+
+#slider-right-overlay {
+  background: none;
+}
+
+#top-content {
+  background: none;
+}
+
+#footer-top {
+  background: #666666;
+}
+
+ul.nav li ul {
+    background: none repeat-y scroll 0 0 #E0B60D;
+}
+
+#quote-inner p {
+    line-height: 36px;
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+.wp-caption p.wp-caption-text {
+  font-size: 13px;
+  line-height: inherit;
+  font-style: italic;
+}
+
+#breadcrumbs {
+  font-size: inherit;
+}
