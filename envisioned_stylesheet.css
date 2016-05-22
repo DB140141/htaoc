@@ -23,15 +23,6 @@ body {
   font-style: italic;
 }
 
-#breadcrumbs {
-  font-size: inherit;
-}
-
-.gce-list-event {
-  font-weight: bold;
-  font-size: large;
-}
-
 h1.category-title {
 color:#000000;
 }
@@ -73,4 +64,9 @@ body {
 
 #breadcrumbs {
   font-size: inherit;
+}
+
+.gce-list-event {
+  font-weight: bold;
+  font-size: large;
 }
