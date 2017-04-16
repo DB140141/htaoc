@@ -12,15 +12,32 @@
   font-size: large;
 }
 
-body {
-  font-size: 14px;
-  line-height: 1.5em;
+#menu-content {
+  background-color: #E0B60D;
+  background-image: none;
 }
 
-.wp-caption p.wp-caption-text {
-  font-size: 13px;
-  line-height: inherit;
-  font-style: italic;
+ul#top-menu a {
+  color: #FFFFFF;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+}
+
+#menu {
+  background-image: url(http://www.htaoc.com/wp-content/uploads/2013/05/left-menu-bg-pascha.png);
+}
+
+#menu-right {
+  background-image: url(http://www.htaoc.com/wp-content/uploads/2013/05/right-menu-bg-pascha.png);
+}
+
+#top-wrapper {
+  background-image: url(http://www.htaoc.com/wp-content/uploads/2013/05/resurrection-back.jpg) !important;
+  background-color: #FFFFFF !important;
+}
+
+ul#top-menu > li.current_page_item > a, ul#top-menu a:hover {
+  color: #FFFFFF !important;
+  font-weight: bold;
 }
 
 h1.category-title {
@@ -49,24 +66,4 @@ ul.nav li ul {
 
 #quote-inner p {
     line-height: 36px;
-}
-
-body {
-  font-size: 14px;
-  line-height: 1.5em;
-}
-
-.wp-caption p.wp-caption-text {
-  font-size: 13px;
-  line-height: inherit;
-  font-style: italic;
-}
-
-#breadcrumbs {
-  font-size: inherit;
-}
-
-.gce-list-event {
-  font-weight: bold;
-  font-size: large;
 }
